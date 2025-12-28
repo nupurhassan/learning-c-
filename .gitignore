@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -39,3 +40,14 @@
 
 # debug information files
 *.dwo
+
+# C++ binaries
+main
+*.out
+*.exe
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
